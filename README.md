@@ -1,6 +1,6 @@
 # New Media Research
 
-Jason's NM Research Repository
+Jason's New Media Research Repository
 
 <br>
 
