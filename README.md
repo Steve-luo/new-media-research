@@ -9,3 +9,4 @@ Jason's New Media Research Repository
 #### Homework
 
 * [Week 3](homework/02.07.answers.md)
+* [Week 4](homework/02.14.new.tech.md)
