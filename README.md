@@ -9,11 +9,7 @@ Jason's New Media Research Repository
 #### Homework
 
 * [Week 3](homework/02.07.answers.md)
-
 * [Week 4](homework/02.14.new.tech.md)
-
 * Week 5
-
   * [What is the Internet and how it came to be](homework/02.21.what.is.the.internet.md)
-
-  * [Background research of Machine Learning](homework/02.21.machine.learning.background.research.md)
+  * [Background research of machine learning](homework/02.21.machine.learning.background.research.md)
