@@ -17,4 +17,9 @@ Jason's New Media Research Repository
 * Week 7
   * [Technology Map](homework/03.07.tech.map.md)
   * [Future Diary](homework/03.07.future.diary.md)
-* [Week 10](idea-101)
+
+<br>
+
+#### Projects
+
+* [Idea No. 101](idea-101)
