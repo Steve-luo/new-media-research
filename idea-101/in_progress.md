@@ -1,6 +1,6 @@
 # In-progress Work
 
-[In-progress Work (video)](https://raw.githubusercontent.com/Steve-luo/new-media-research/master/idea-101/in_progress.mp4)
+[![In-progress Work Video](in_progress_screenshot.png)](https://raw.githubusercontent.com/Steve-luo/new-media-research/master/idea-101/in_progress.mp4)
 
 * Date: April 4, 2019
 * Medium: Video
